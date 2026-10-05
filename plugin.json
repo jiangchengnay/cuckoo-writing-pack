@@ -1,0 +1,8 @@
+{
+  "id": "cuckoo-writing-pack",
+  "name": "中文写作包",
+  "version": "1.0.0",
+  "description": "为 Cuckoo Code 提供中文写作技能：周报日报、技术文档、README、会议纪要、邮件通知、文案润色、方案汇报。纯提示词、零执行。",
+  "author": "jiangchengnay",
+  "minAppVersion": "0.8.7"
+}
